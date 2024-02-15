@@ -20,6 +20,10 @@ namespace COMP003A.Assignment5
             CharacterInfo("Arbiter", 2004);
             CharacterInfo("Master Chief", 2001);
             CharacterInfo("Maximus Decimus Meridius", 2000);
+            CharacterInfo("James Bond", 1962);
+            CharacterInfo("Rocky Balboa", 1976);
+            CharacterInfo("Michael Corleone", 1972);
+            CharacterInfo("Joker", 1966);
         }
 
         static void PrintSeparator()
